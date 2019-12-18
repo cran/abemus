@@ -1,4 +1,4 @@
-a37984935b8d390e898fddff1e326b9c *DESCRIPTION
+f73bcdeabd462433ef7146822efd155a *DESCRIPTION
 1958c40ab888a5586a03c80611f5a136 *NAMESPACE
 130f55a3daa4e5ada21f45cc7a948667 *R/CheckAltReads.R
 d6671512b6ac9b0e32f3cf86f499dcc4 *R/abemus.R
@@ -7,7 +7,7 @@ d6671512b6ac9b0e32f3cf86f499dcc4 *R/abemus.R
 dddc87d6a976641ad1a79d4387506aa3 *R/add_names.R
 44cbb78d324009c844b687d59f5c3abd *R/adjust_af_threshold_table.R
 9b75f44dd22ed04d254d49a17440df00 *R/apply_AF_filters.R
-7ee1438bce729c4d5adc898284aa35cb *R/apply_scaling_factor.R
+71b744ab2cb40cd617b358ba02ee89ff *R/apply_scaling_factor.R
 cdc648ca5de26cd0ce7208a49d39e0d8 *R/bed2positions.R
 32511ab343a4db7ae4edc54a6c00cfc0 *R/bombanel_afs.R
 ae7e1389b38f8b0a093afe7bc24e17ac *R/bombanel_covs.R
@@ -32,7 +32,7 @@ c9077b13fcd554ebad8eb78f2c20d779 *R/get_target_size.R
 dcd17a0a61eb4b28bb1eda476baaf5fc *R/split_pacbam_bychrom.R
 cda175f1c6af3c4bd8464e77c57219cf *R/strandbias.R
 5bb41b60b8599da78b84153fe51362ed *R/tab_optimal_R.R
-382e6bc9d31ab663fd2c196f566ecef9 *README.md
+3f25ed286460ec37e1380137942f6931 *README.md
 30475933e20bec2970ec3cfbf74b10e8 *build/vignette.rds
 fe19fb4c0610f17e2b70b873cf49985d *data/bombanel_afs.rda
 3248a6a76d4e0d6f64466ee68f2d617d *data/bombanel_covs.rda
@@ -40,7 +40,7 @@ c35dfeef6c9ba66d624bea59e85b8972 *data/bombanel_tab_cov_pbem.rda
 f55a5c38e1be95ffbc1884c3fcb02559 *data/datalist
 3d82d60481440d431a41e714fd8df39d *data/tab_optimal_R.rda
 09032cd3d4e98e42d7e62fe48749913d *inst/doc/abemus.Rmd
-8a3457b8b3e2caa270a11851feb8c13c *inst/doc/abemus.html
+329435acc672887d759048457a2e10d9 *inst/doc/abemus.html
 b8869ed01d3cfe75efd600b449f148fd *inst/extdata/BaseErrorModel/afgtz.tsv
 b8869ed01d3cfe75efd600b449f148fd *inst/extdata/BaseErrorModel/afgtz_8.tsv
 4211d29d4b06fb48318daba336e592c8 *inst/extdata/BaseErrorModel/afz.RData
@@ -52,8 +52,8 @@ b4ee5078272ecdf17ebc5929f205c69a *inst/extdata/BaseErrorModel/afz_8.tsv
 0090692ca4598cef24bfa790cf0a1544 *inst/extdata/BaseErrorModel/pbem_background.RData
 bbace22485b1a71c000910e1a0018e9e *inst/extdata/BaseErrorModel/pbem_tab.RData
 6a7e3f9699b5a2194468a066bbd25dbd *inst/extdata/Controls/datathreshold.RData
-0ba2924b0fc827c8e69a9f33c6a8515f *inst/extdata/Controls/minaf_cov_corrected_10r_0.995_b.RData
-c7e5efffa6283694d4d7e76c71ed16ee *inst/extdata/Controls/tab10r_0.995_b.RData
+0ba2924b0fc827c8e69a9f33c6a8515f *inst/extdata/Controls/minaf_cov_corrected_1r_0.995_b.RData
+c7e5efffa6283694d4d7e76c71ed16ee *inst/extdata/Controls/tab1r_0.995_b.RData
 38a63856d29ed6f9ae890f49f6be6fa2 *inst/extdata/Results/TUMOR_A_toy/8/chrpm_f1.tsv
 c42bd8947cca799fd96e6aa31c1a0ede *inst/extdata/Results/TUMOR_A_toy/8/chrpm_f2.tsv
 1d61552f9a9f6480be5395a0c146a081 *inst/extdata/Results/TUMOR_A_toy/8/chrpm_f3.tsv

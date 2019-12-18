@@ -1,7 +1,7 @@
 Package: abemus
 Type: Package
 Title: Adaptive Base Error Model in Ultra-Deep Sequencing Data
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(person("Nicola", "Casiraghi", role=c("aut", "cre"), email="casiraghinicola@gmail.com"),
              person("Alessandro", "Romanel", role=c("aut")),
              person("Francesco", "Orlando", role=c("ctb")),
@@ -16,11 +16,11 @@ Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 Imports: data.table
 NeedsCompilation: no
-Packaged: 2019-11-28 12:31:14 UTC; nicolacasiraghi
+Packaged: 2019-12-18 14:38:59 UTC; nicolacasiraghi
 Author: Nicola Casiraghi [aut, cre],
   Alessandro Romanel [aut],
   Francesco Orlando [ctb],
   Francesca Demichelis [ctb]
 Maintainer: Nicola Casiraghi <casiraghinicola@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-12-02 15:20:02 UTC
+Date/Publication: 2019-12-18 22:40:06 UTC
